@@ -1,0 +1,24 @@
+.card{
+    /* style="width: 18rem;" */
+    width: 18rem;
+    position: absolute;
+    display: flex;
+    left: 100px;
+    /* border: solid 2px black; */
+}
+.card-img-top{
+    width: 800px;
+    height: 400px;
+}
+.produto1{
+    font-size: xx-large;
+    font-style: normal;
+    text-decoration-color: blue ;
+    
+}
+#title{
+    text-decoration-color: blue
+    
+    
+    ;
+}
